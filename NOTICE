@@ -1,0 +1,18 @@
+# Truss Notices
+
+Truss was originally created by John Anthony Mariquit.
+Copyright (c) 2026 John Anthony Mariquit <john@mariquit.com>
+
+## Community Documents
+
+The source repository's [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) is adapted
+from [Contributor Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/),
+licensed under [Creative Commons Attribution 4.0 International](https://github.com/EthicalSource/contributor_covenant/blob/2.1/LICENSE.md).
+Truss adapted the reporting and moderation instructions. The Contributor
+Covenant credits Mozilla's code of conduct enforcement ladder as inspiration
+for its Community Impact Guidelines.
+
+## Third-Party Dependencies
+
+Third-party dependencies retain their own license terms. The Truss installer
+copies `LICENSE` and `NOTICE` into each installed plugin directory.

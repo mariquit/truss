@@ -1,0 +1,14 @@
+{
+  "name": "opencode-usage-breakdown",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./index.ts",
+    "./tui": "./tui.ts"
+  },
+  "dependencies": {
+    "@opencode/plugin": "2.2.5"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "omniroute": {
+    "exclude": [
+      "^auto(?:/|$)",
+      "^(?:codex|cu)/",
+      "^cursor/(?:auto|composer-2(?:\\.5)?)$",
+      "^gpt-(?:6\\.1-(?:sol|terra)|6\\.2-sol)$",
+      "^agy/(?:claude-opus-4-6-thinking|claude-sonnet-4-6|gemini-3\\.8-flash)-(?:high|low|medium)$",
+      "^gc/(?:grok-4\\.7(?:-build-fast)?-(?:high|low|medium|xhigh)|grok-imagine-video)$",
+      "^grok-cli/(?:grok-4\\.7(?:-build-fast)?(?:-(?:high|low|medium|xhigh))?|grok-imagine-video|grok-tts|grok-voice-transcribe-2\\.0)$",
+      "^no-think/agy/(?:claude-opus-4-6-thinking|claude-sonnet-4-6)$"
+    ]
+  }
+}
